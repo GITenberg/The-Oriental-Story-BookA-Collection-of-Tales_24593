@@ -29,6 +29,8 @@ creator:
     - http://de.wikipedia.org/wiki/Wilhelm_Hauff
     - http://en.wikipedia.org/wiki/Wilhelm_Hauff
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24593#The-Oriental-Story-BookA-Collection-of-Tales
 gutenberg_bookshelf:
 - Folklore
 - Children's Myths, Fairy Tales, etc.
